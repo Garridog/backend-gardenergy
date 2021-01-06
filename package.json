@@ -4,8 +4,8 @@
   "description": "gardenergy backend",
   "main": "index.js",
   "scripts": {
-    "server": "npx nodemon src/index.js",
-    "start": "node src/index.js",
+    "server": "npx nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
